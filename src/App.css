@@ -1,0 +1,36 @@
+.gabsmimmama{
+  color: rgb(226, 204, 204);
+  display: flex;
+justify-content: center;
+align-items: center;
+padding: 16px 50px;
+gap: 10px;
+background: #149c08;
+border-radius: 5px;
+width: fit-content;
+}
+.center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 100vw;
+}
+.hello{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.conc{
+  width: 100%;
+  display: flex;  
+  align-items: center;
+  justify-content: center;
+flex-direction: column;
+}
+a{
+  text-decoration: none;
+  color:#fff
+  ;
+}
